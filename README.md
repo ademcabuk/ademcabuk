@@ -1,41 +1,63 @@
+<!-- Header (Hareketli Yıldızlar ve Neon Renk Geçişi) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20Adem%20Çabuk%20👋&fontSize=50&desc=Software%20Engineering%20Student%20|%20Backend%20Developer%20&%20AI%20Instructor&descSize=20&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c8ff:003cff&height=250&section=header&text=Adem%20Çabuk&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20Instructor&descSize=20&descAlignY=65" />
 </div>
 
-<h3 align="center">.NET Core & SQL ile Backend Mimarileri Geliştiriyorum 🚀</h3>
-
+<!-- Animasyonlu Kayan Yazı (Typing Effect) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ademcabuk&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=🚀+Yazılım+Mühendisliği+Öğrencisi;💻+.NET+ve+C%23+ile+Backend+Mimarileri;🤖+Yapay+Zeka+Eğitmeni;🏆+TUA+Astro+Hackathon+İl+1.si" alt="Typing" />
 </div>
 
 <br>
 
-```yaml
-isim:       Adem Çabuk
-rol:        Yazılım Mühendisliği Öğrencisi & Yapay Zeka Eğitmeni
-odak:       .NET Core, C#, SQL, OOP, N-Katmanlı Mimari
-su_an:      ASP.NET Core Web API ve Savunma Sanayii Konseptli Projeler Geliştiriyor
-ilgi_alani: Backend Geliştirme, Yapay Zeka, Sistem Mimarisi
-```
-
-* 🔭 **Gümüşhane Üniversitesi'nde** Yazılım Mühendisliği 3. sınıf öğrencisiyim.
-* 🌱 **C# ve SQL** ile arka uç (backend) sistemleri ve mimariler (N-Tier, Entity Framework) üzerine çalışıyorum.
-* 🤖 Gençlik Merkezi'nde aktif olarak **Yapay Zeka Eğitmenliği** yapıyorum.
-* 🚀 **TUA Astro Hackathon'da** il 1.liği ve **Teknofest** ÖTR tecrübelerine sahibim.
-* 📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz:
-
+<!-- Sosyal Medya İletişim Butonları -->
 <div align="center">
+  <a href="https://linkedin.com/in/ademcbk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:ademcbkk61@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ademcbkk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </div>
 
 <br>
 
-<h3 align="center">Yetenekler & Teknolojiler</h3>
+<!-- Hakkımda Bölümü (Temiz ve Odaklı Tasarım) -->
+<h3 align="center">⚡ Hakkımda Kısa Kısa</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,mysql,git,github,visualstudio" />
+  <p>
+    🎓 <b>Eğitim:</b> Gümüşhane Üniversitesi Yazılım Mühendisliği (3. Sınıf)<br><br>
+    🎯 <b>Odak Noktam:</b> C#, OOP, N-Katmanlı Mimari ,ASP.NET Web Apı ve SQL Veritabanı Sistemleri.<br><br>
+    🚀 <b>Mevcut Durum:</b> Savunma sanayii konseptli (Füze/Personel) C# & SQL arka uç simülasyonu geliştiriyor.<br><br>
+    💡 <b>Deneyimler:</b> Teknofest (Sistem Tasarımı / ÖTR) ve Hackathon yarışmaları (İl 1.si).
+  </p>
+</div>
+
+<br>
+
+<!-- İstenen Teknolojiler (Gruplandırılmış ve Görselleştirilmiş) -->
+<h3 align="center">🔥 Teknolojiler & Araçlar</h3>
+<div align="center">
+  <p><b>Diller & Çerçeveler (Frameworks)</b></p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,mysql" />
+  <br><br>
+  <p><b>Geliştirme Ortamı & Versiyon Kontrol</b></p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,github" />
+</div>
+
+<br>
+
+<!-- GitHub İstatistik Kartı (Neon/Radical Tema) -->
+<h3 align="center">📈 GitHub İstatistiklerim</h3>
+<div align="center">
+  <img src="https://github.shields.io/github/followers/SENIN_GITHUB_KULLANICI_ADIN?label=Takip%C3%A7iler&style=social" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ademcabuk&theme=radical&hide_border=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<!-- Ziyaretçi Sayacı (Canlı Mavi Ton) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ademcabuk&color=00c8ff&style=for-the-badge&label=PROFIL+ZIYARETCILERI" />
 </div>
