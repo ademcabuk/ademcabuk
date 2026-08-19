@@ -20,12 +20,11 @@
 ## ⚡ Hakkımda
 
 ```yaml
-backend_developer:
-  eğitim:        "Gümüşhane Üniversitesi - Yazılım Mühendisliği (3. Sınıf)"
-  odak_noktası:  ["C#", "OOP", "N-Katmanlı Mimari", "ASP.NET Web API", "SQL Veritabanı Sistemleri"]
-  mevcut_proje:  "Savunma sanayii konseptli (Füze / Personel) C# & SQL arka uç simülasyonu"
-  başarılar:     ["🥇 Teknofest - Sistem Tasarımı (ÖTR)", "🏆 Hackathon - İl 1.si"]
-  ilgi_alanı:    "Yapay Zeka Eğitmenliği 🤖"
+  Eğitim:        "Gümüşhane Üniversitesi - Yazılım Mühendisliği (3. Sınıf)"
+  Odak Noktam:  ["C#", "OOP", "N-Katmanlı Mimari", "ASP.NET Web API", "SQL Veritabanı Sistemleri"]
+  Mevcut Projem:  "Savunma sanayii konseptli (Füze / Personel) C# & SQL arka uç simülasyonu"
+  Başarılar:     ["🥇 Teknofest - Sistem Tasarımı (ÖTR)", "🏆 Hackathon - İl 1.si"]
+  İlgi Alanı:    "Backend Devoloper"
 ```
 
 <br/>
